@@ -6,6 +6,9 @@ progresses to 98% on laptop USB. See [PMIC_BUILD_33.md](PMIC_BUILD_33.md)
 for measurements and remaining charging limitations. Earlier candidate
 descriptions below record prior stages.
 
+Open charging issue: [slow wall charging at 22% SOC](PMIC_WALL_CHARGING_OPEN.md),
+reported 2026-10-12; investigation deferred.
+
 Repositories, branches and revisions: [SOURCE_REPOSITORIES.md](SOURCE_REPOSITORIES.md).
 
 Latest SOC/completion candidate (2026-10-11): [PMIC_SOC_CONTINUITY.md](PMIC_SOC_CONTINUITY.md). It supersedes the historical filesystem persistence and read-only shutdown-state descriptions below. Source-only; maintainer build and validation required.
