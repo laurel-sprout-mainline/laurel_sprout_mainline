@@ -215,3 +215,5 @@ Current publication and Wi-Fi failure: [WIFI_REVIEW.md](WIFI_REVIEW.md).
 Its patch inventory supersedes incomplete historical fresh-sync instructions.
 
 PMI632 battery/normal charging source integration and unfinished Quick Charge: [PMIC_BATTERY.md](PMIC_BATTERY.md).
+
+- [UI timing baseline (2026-10-12)](SMOOTHNESS_20261012.md)
